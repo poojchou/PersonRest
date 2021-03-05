@@ -1,0 +1,6 @@
+com/person/rest/controller/RestApiController.class
+com/person/rest/model/Person.class
+com/person/rest/service/PersonServiceImpl.class
+com/person/rest/util/CustomErrorType.class
+com/person/rest/PersonRest.class
+com/person/rest/service/PersonService.class
